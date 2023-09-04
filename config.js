@@ -15,7 +15,8 @@ global.devs = '923184070915';
 global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
 module.exports = {
-  sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
+  sessionName:  process.env.SESSION_ID ||  "XLICON-MD;;;ZeppelinDreadful
+	  ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  'Bbe — 🤍',
   packname:  process.env.PACK_NAME || 'MADE BY TOXIC-MD',
    
