@@ -21,7 +21,7 @@
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
     "required" :false,
-    "value": "false"
+    "value": "true"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -70,11 +70,11 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "Put Owner Number here"
+       "value": "9083778342"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
-  },
+    "description": "XLICON-MD;;;ZeppelinDreadful
+	   
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
        "value": "ADD A OPEN AI KEY",
@@ -99,7 +99,7 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "XLICON-MD"
+    "value": "TOXIC"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
